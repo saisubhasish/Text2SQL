@@ -2,6 +2,6 @@
     "httpMethod": "GET",
     "path": "/example",
     "queryStringParameters": {
-      "query": "Write a desctiprion on quantum computing"
+      "query": "Find all user who live in California and have over 1000 credits"
     }
   }
