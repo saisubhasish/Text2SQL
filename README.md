@@ -1,7 +1,7 @@
 # Text-to-SQL Converter
-
+## Architecture
 ![Screenshot 2024-08-30 100736](https://github.com/user-attachments/assets/c04893ce-c91c-4ad9-a800-43699208de4c)
-
+## User Interface
 ![Screenshot 2024-08-30 190919](https://github.com/user-attachments/assets/772b5a3a-68ad-43ec-acd6-7a915cceefa0)
 
 
