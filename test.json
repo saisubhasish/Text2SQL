@@ -1,0 +1,7 @@
+{
+    "httpMethod": "GET",
+    "path": "/example",
+    "queryStringParameters": {
+      "query": "Write a desctiprion on quantum computing"
+    }
+  }
